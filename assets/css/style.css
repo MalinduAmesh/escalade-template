@@ -12685,7 +12685,7 @@ input:-ms-input-placeholder {
   height: 80px;
   width: 35px;
   position: absolute;
-  background: #ff145c;
+  background: #ffab02;
   color: #fff;
   text-transform: uppercase;
   line-height: 1;
@@ -14394,7 +14394,8 @@ input:-ms-input-placeholder {
 ========================
 ************************/
 .count_down {
-  background: #ffab02;
+  background: #ff145c;
+  /*background: #ffab02;*/
   width: 475px;
   margin: 0 auto;
   position: relative;
@@ -14431,7 +14432,7 @@ input:-ms-input-placeholder {
 }
 
 .offer-text.offer2::before {
-  border-color: transparent transparent #ffab02 transparent;
+  border-color: transparent transparent #ff145c transparent;
 }
 
 .inner_content {
